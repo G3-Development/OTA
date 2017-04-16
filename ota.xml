@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <d855>
+            <Filename>RR-N-v5.8.3-20170414-d855.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=673368273298947321</RomUrl>
+            <d855FirmwareUrl
+                id="d855Firmware"
+                title="d855 Firmware"
+                description="d855 Firmware Folder">https://www.androidfilehost.com/?w=files&flid=172075</d855FirmwareUrl>
+            <OpenGappsUrl
+                id="open_gapps"
+                title="OpenGApps"
+                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+		</d855>
+    </Stable>
+</SlimOTA>
