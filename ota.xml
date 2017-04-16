@@ -11,6 +11,10 @@
                 id="d855Firmware"
                 title="d855 Firmware"
                 description="d855 Firmware Folder">https://www.androidfilehost.com/?w=files&flid=172075</d855FirmwareUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
             <OpenGappsUrl
                 id="open_gapps"
                 title="OpenGApps"
