@@ -2,23 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <d855>
-            <Filename>RR-N-v5.8.3-20170416-d855.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170417-d855-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Latest ResurrectionRemix build">https://www.androidfilehost.com/?fid=673368273298947321</RomUrl>
-            <d855FirmwareUrl
-                id="d855Firmware"
-                title="d855 Firmware"
-                description="d855 Firmware Folder">https://www.androidfilehost.com/?w=files&flid=172075</d855FirmwareUrl>
+                description="Download ResurrectionRemix builds">http://downloads.resurrectionremix.com/d855/Nougat/RR-N-v5.8.3-20170417-d855-Official.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
                 description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
-            <OpenGappsUrl
-                id="open_gapps"
-                title="OpenGApps"
-                description="Download latest OpenGApps">http://opengapps.org</OpenGappsUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</d855>
     </Stable>
 </SlimOTA>
