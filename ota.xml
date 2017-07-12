@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <d855>
-            <Filename>RR-N-v5.8.3-20170629-d855.zip</Filename>
+            <Filename>RR-N-v5.8.3-20170710-d855.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
