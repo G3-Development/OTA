@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <d855>
-            <Filename>RR-N-v5.8.4-20170925-d855.zip</Filename>
+            <Filename>RR-N-v5.8.5-20170925-d855.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix/files/d855/RR-N-v5.8.4-20170925-d855.zip/download</RomUrl>
+                description="Download ResurrectionRemix builds">https://sourceforge.net/projects/resurrectionremix/files/d855/RR-N-v5.8.5-20170925-d855.zip/download</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -16,5 +16,20 @@
             	title="Open Gapps"
             	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
 	</d855>
+        <lithium>
+            <Filename>RR-N-FINAL-v5.8.5-20170926-lithium.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://www.androidfilehost.com/?fid=673791459329048743</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+	</lithium>
     </Stable>
 </SlimOTA>
